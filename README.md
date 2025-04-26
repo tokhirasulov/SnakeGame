@@ -21,7 +21,7 @@ To run this project, you need to have the following dependencies installed:
 - **cvzone** (for hand tracking and drawing)
 - **pygame** (for playing sounds)
 - **numpy** (for handling arrays)
-  
+
 You can install the required libraries using the following command:
 
 ```bash
@@ -36,7 +36,7 @@ Additionally, make sure to have the following files in your project directory:
 ### How to Run the Game
 
 1. Clone the repository or download the project files to your local machine.
-   
+
 2. Make sure you have a webcam connected to your system.
 
 3. Place the sound files (`eat.wav` and `game_over.wav`) and the food image (`linkedin.png`) in the same directory as your script.
